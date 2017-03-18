@@ -1,0 +1,11 @@
+$bg-color: #00ff00;
+$font-color: #ffffff;
+
+.css-example {
+    height: 100px;
+    background-color: $bg-color;
+    h1 {
+        color: $font-color;
+        text-transform: uppercase;
+    }
+}

@@ -1,0 +1,8 @@
+.css-example {
+    height: 100px;
+    background-color: #ff0000;
+}
+
+.css-example > h1 {
+    color: #ffffff;
+}
